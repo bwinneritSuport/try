@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config> 
+<sita>
+  <URL>https://www.next.co.il/en/homeware</URL>
+   <user>testerautomation@aaa.com</user>
+     <!--<user>tomertamir@aaa.com</user>-->
+    <!-- <user>avi@avi.com</user>-->
+       <password>Tt12345687</password>
+       <CardNumber>45801111222233334444</CardNumber>
+       <cvv>123</cvv>
+       <mm>10</mm>
+       <yy>25</yy>
+      </sita>
+     </config>
+
+
